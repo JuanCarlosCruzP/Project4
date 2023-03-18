@@ -1,0 +1,8 @@
+Hi {0},
+
+You're been added successfully added to the National Insurance Planning according with your last visit to your doctor.
+
+***This is an automatically generated email – please do not reply to it. If you have any queries regarding your order please email testemail@nip.com.***
+
+Kind Regards,
+NIP Team.
